@@ -1,4 +1,4 @@
-## Graph Pattern
+## Graph - Topological Sort
 
 ### 📌 When to Use
 - Prerequisite relationships
