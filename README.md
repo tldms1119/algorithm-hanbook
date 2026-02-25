@@ -17,4 +17,4 @@ This repository is a pattern-based algorithm handbook for coding interviews.
     - 📄 [LC0207-CourseSchedule.java](graph/topological-sort/LC0207-CourseSchedule.java)
   - 📂 traversal/
     - 📄 [pattern.md](graph/traversal/pattern.md)
-    - 📄 [LC0200-NumberOfIslands.java](ggraph/traversal/LC0200-NumberOfIslands.java)
+    - 📄 [LC0200-NumberOfIslands.java](graph/traversal/LC0200-NumberOfIslands.java)
