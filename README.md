@@ -18,3 +18,6 @@ This repository is a pattern-based algorithm handbook for coding interviews.
   - 📂 traversal/
     - 📄 [pattern.md](graph/traversal/pattern.md)
     - 📄 [LC0200-NumberOfIslands.java](graph/traversal/LC0200-NumberOfIslands.java)
+- 📂 dynamic-programming/
+  - 📄 [pattern.md](dynamic-programming/pattern.md)
+  - 📄 [LC0072-EditDistance.java](dynamic-programming/LC0072-EditDistance.java)
