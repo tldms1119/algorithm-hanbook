@@ -11,6 +11,7 @@ This repository is a pattern-based algorithm handbook for coding interviews.
 - 📂 heap/
   - 📄 [pattern.md](heap/pattern.md)
   - 📄 [LC0347-TopKFrequentElements.java](heap/LC0347-TopKFrequentElements.java)
+  - 📄 [LC0023-MergeKSortedLists.java](heap/LC0347-TopKFrequentElements.java)
 - 📂 graph/
   - 📂 topological-sort/
     - 📄 [pattern.md](graph/topological-sort/pattern.md)
