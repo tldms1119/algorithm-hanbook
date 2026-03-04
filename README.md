@@ -23,6 +23,6 @@ This repository is a pattern-based algorithm handbook for coding interviews.
   - 📄 [pattern.md](dynamic-programming/pattern.md)
   - 📂 string-DP/
     - 📄 [LC0072-EditDistance.java](dynamic-programming/string-DP/LC0072-EditDistance.java)
- - 📂 knapsack/
+  - 📂 knapsack/
     - 📄 [pattern.md](dynamic-programming/knapsack/pattern.md)
     - 📄 [LC0416-PartitionEqualSubsetSum.java](dynamic-programming/knapsack/LC0416-PartitionEqualSubsetSum.java)
