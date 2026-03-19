@@ -35,3 +35,7 @@ This repository is a pattern-based algorithm handbook for coding interviews.
   - 📄 [pattern.md](hash-map/pattern.md)
   - 📄 [LC0242-ValidAnagram.java](hash-map/LC0242-ValidAnagram.java)
   - 📄 [LC0049-GroupAnagrams.java](hash-map/LC0049-GroupAnagrams.java)
+- 📂 stack/
+  - 📂 monotonic-stack/
+    - 📄 [pattern.md](stack/monotonic-stack/pattern.md)
+    - 📄 [LC0084-LargestRectangleInHistogram.java](stack/monotonic-stack/LC0084-LargestRectangleInHistogram.java)
