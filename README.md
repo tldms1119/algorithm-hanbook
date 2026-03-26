@@ -6,6 +6,7 @@ This repository is a pattern-based algorithm handbook for coding interviews.
   - 📄 [pattern.md](two-pointers/pattern.md)
   - 📄 [LC0167-TwoSum2.java](two-pointers/LC0167-TwoSum2.java)
   - 📄 [LC0011-ContainerWithMostWater.java](two-pointers/LC0011-ContainerWithMostWater.java)
+  - 📄 [LC0042-TrappingRainWater.java](two-pointers/LC0042-TrappingRainWater.java)
 - 📂 sliding-window/
   - 📄 [pattern.md](sliding-window/pattern.md)
   - 📄 [LC0003-LongestSubstring.java](sliding-window/LC0003-LongestSubstring.java)
