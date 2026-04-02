@@ -2,6 +2,9 @@
 This repository is a pattern-based algorithm handbook for coding interviews.
 
 ## Structure
+- 📂 backtracking/
+  - 📄 [pattern.md](backtracking/pattern.md)
+  - 📄 [LC0079-WordSearch.java](backtracking/LC0079-WordSearch.java)
 - 📂 two-pointers/
   - 📄 [pattern.md](two-pointers/pattern.md)
   - 📄 [LC0167-TwoSum2.java](two-pointers/LC0167-TwoSum2.java)
